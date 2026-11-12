@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# Burp project files and captured traffic can hold cookies and tokens
+*.burp
+*.har
+captures/
+.env
